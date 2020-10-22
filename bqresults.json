@@ -1,1 +1,14 @@
-{"name":"Mr. Krabs","children":["Spongebob","Patrick","Sally"]}
+{
+  "name":"Mr. Krabs",
+  "children":[
+    {
+      "name":"Spongebob",
+    },
+    {
+      "name: Patrick",
+    }
+    {
+      "name": "Sally",
+    }
+  ]
+}
